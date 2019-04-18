@@ -6,10 +6,10 @@ A tool that allows you to query the ethereum TX pool.
 * test_acc.pass (password to keystore file)
 
 ## setup
-
-
-
-
+clone repo
+```
+git clone git@github.com:ith-harvey/tx_pool_monitor.git
+```
 update submodules
 ```
 cd tx_pool_monitor
