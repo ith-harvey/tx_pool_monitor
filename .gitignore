@@ -1,0 +1,4 @@
+_virtualenv
+__pycache__/
+test_acc.json
+test_acc.pass
